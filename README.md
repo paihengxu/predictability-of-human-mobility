@@ -1,6 +1,8 @@
 # predictability-of-human-mobility
 Calculate the predictability of discrete time series based on LZ entropy estimator
+
 In numerical_simulations, case_study/deterministic/exploration/markovian_process scripts are the experiments in the paper.
+
 Simple calculation of predictability is in simplified_version.
 
 
